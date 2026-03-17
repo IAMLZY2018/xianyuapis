@@ -1,5 +1,12 @@
 # 🐟 XianYuAutoDeliveryX - 闲鱼虚拟商品商自动发货&聊天对接大模型
 
+-----------------------------------------
+本项目不再维护，推荐查看Java版本，带界面
+https://github.com/IAMLZY2018/XianYuAssistant
+
+-----------------------------------------
+
+
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
